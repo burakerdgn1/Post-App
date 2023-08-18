@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    color:white;
+} 
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+    
+}
+.spacer{
+    flex:1 1 auto;
+}
+a.mat-accent { color: #ff4081 !important }
+.mat-mdc-text-field-wrapper { background-color: transparent !important }
+
+ul{
+    display:flex;
+}
